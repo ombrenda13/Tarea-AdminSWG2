@@ -1,0 +1,5 @@
+print "Hola Mundo"
+print "Aqui empieza nuestro proyecto 1 en GuitHub"
+
+integrantes=['Erika', 'Angelica','Brenda','Tania', 'Blanca']
+
